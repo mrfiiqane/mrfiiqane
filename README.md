@@ -95,21 +95,6 @@ developer = {
 <img src="https://github-readme-stats.vercel.app/api?username=mrfiiqane&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="190" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfiiqane&layout=compact&theme=radical&border_radius=10&hide=html,css" height="190" />
 
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrfiiqane&theme=react-dark&border_radius=10" width="100%" />
-
-</div>
-
----
-
-### 🎮 Featured Projects
-
-<div align="center">
-
-[![Jumper Game](https://github-readme-stats.vercel.app/api/pin/?username=mrfiiqane&repo=GamerGame2d&theme=radical)](https://github.com/mrfiiqane/GamerGame2d)
-
 </div>
 
 ---
