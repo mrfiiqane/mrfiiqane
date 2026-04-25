@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20%7C%20mrfiiqane&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Game%20Dev%20%7C%20Designer&descAlignY=56&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=💻+Full-Stack+Web+Developer;🎮+Game+Developer+(Godot+Engine);📱+Mobile+App+Developer+(Flutter);🎨+Graphic+Designer+%26+Video+Editor;🤖+Machine+Learning+Enthusiast" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Game+Developer+(Godot+Engine);Mobile+App+Developer+(Flutter);Graphic+Designer+%26+Video+Editor;Machine+Learning+Enthusiast" alt="Typing Animation"/>
 
 <br/>
 
@@ -91,6 +91,16 @@ developer = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mrfiiqane&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%"/>
+</div>
+
+---
+
+### 🎮 Featured Projects
+
+<div align="center">
+
+[![Jumper Game](https://github-readme-stats.vercel.app/api/pin/?username=mrfiiqane&repo=GamerGame2d&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/mrfiiqane/GamerGame2d)
+
 </div>
 
 ---
