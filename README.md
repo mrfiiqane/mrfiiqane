@@ -86,15 +86,19 @@ developer = {
 
 <div align="center">
 
-| **GitHub Stats** | **Most Used Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=mrfiiqane&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfiiqane&layout=compact&theme=radical&include_all_commits=true&count_private=true" height="150" /> |
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=mrfiiqane&theme=radical&no-bg=true&margin-w=15" alt="Trophies" />
 
 <br/>
 
-**🔥 Current Streak**
+<!-- Stats and Languages side-by-side -->
+<img src="https://github-readme-stats.vercel.app/api?username=mrfiiqane&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="190" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfiiqane&layout=compact&theme=radical&border_radius=10&hide=html,css" height="190" />
+
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mrfiiqane&theme=radical" width="70%" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrfiiqane&theme=react-dark&border_radius=10" width="100%" />
 
 </div>
 
