@@ -85,15 +85,17 @@ developer = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mrfiiqane&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfiiqane&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-</div>
 
-<div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrfiiqane&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%"/>
+| **GitHub Stats** | **Most Used Languages** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=mrfiiqane&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfiiqane&layout=compact&theme=radical&include_all_commits=true&count_private=true" height="150" /> |
+
+<br/>
+
+**🔥 Current Streak**
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mrfiiqane&theme=radical" width="70%" />
+
 </div>
 
 ---
@@ -102,7 +104,7 @@ developer = {
 
 <div align="center">
 
-[![Jumper Game](https://github-readme-stats.vercel.app/api/pin/?username=mrfiiqane&repo=GamerGame2d&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/mrfiiqane/GamerGame2d)
+[![Jumper Game](https://github-readme-stats.vercel.app/api/pin/?username=mrfiiqane&repo=GamerGame2d&theme=radical)](https://github.com/mrfiiqane/GamerGame2d)
 
 </div>
 
