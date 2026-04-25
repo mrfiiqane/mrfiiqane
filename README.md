@@ -52,9 +52,6 @@ developer = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### 🎮 Game Development
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
@@ -62,16 +59,21 @@ developer = {
 
 #### 🤖 Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python_ML-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 #### 🎨 Design & Video
-![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white)
-![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white)
-![Video Editing](https://img.shields.io/badge/Video%20Editing-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF61F6?style=for-the-badge&logo=adobe&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/Affinity-1B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
-#### 🛠️ Tools
+#### 📦 Others (Languages)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### 🛠️ Tools & Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -89,16 +91,6 @@ developer = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mrfiiqane&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%"/>
-</div>
-
----
-
-### 🎮 Featured Projects
-
-<div align="center">
-
-[![Jumper Game](https://github-readme-stats.vercel.app/api/pin/?username=mrfiiqane&repo=GamerGame2d&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/mrfiiqane/GamerGame2d)
-
 </div>
 
 ---
