@@ -23,7 +23,7 @@ developer = {
     "name":     "Mohamed",
     "username": "@mrfiiqane",
     "roles":    ["Full-Stack Dev", "Game Dev", "Mobile Dev", "Designer", "ML Enthusiast"],
-    "learning": "Machine Learning & AI",
+    "learning": "Game dev, Machine Learning & AI",
     "open_to":  "Collaborations & Freelance projects"
 }
 ```
