@@ -22,8 +22,8 @@
 developer = {
     "name":     "Mohamed",
     "username": "@mrfiiqane",
-    "roles":    ["Full-Stack Dev", "Game Dev", "Mobile Dev", "Designer", "ML Enthusiast"],
-    "learning": "Game dev, Machine Learning & AI",
+    "roles":    ["Full-Stack Dev", "Game Dev", "Mobile Dev", "Data Sceince", "Designer", "ML Enthusiast"],
+    "learning": "Game dev, Data Sceince, Machine Learning & AI",
     "open_to":  "Collaborations & Freelance projects"
 }
 ```
