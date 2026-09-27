@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20%7C%20mrfiiqane&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Game%20Dev%20%7C%20Designer&descAlignY=56&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Game+Developer+(Godot+Engine);Mobile+App+Developer+(Flutter);Graphic+Designer+%26+Video+Editor;Machine+Learning+Enthusiast" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Game+Developer+(Godot+Engine);Mobile+App+Developer+(ReactNative);Graphic+Designer+%26+Video+Editor;Machine+Learning+Enthusiast" alt="Typing Animation"/>
 
 <br/>
 
@@ -85,21 +85,6 @@ developer = {
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=mrfiiqane&theme=radical&no-bg=true&margin-w=15" alt="Trophies" />
-
-<br/>
-
-<!-- Stats and Languages side-by-side -->
-<img src="https://github-readme-stats.vercel.app/api?username=mrfiiqane&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="190" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfiiqane&layout=compact&theme=radical&border_radius=10&hide=html,css" height="190" />
-
-</div>
 
 ---
 
