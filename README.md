@@ -91,7 +91,6 @@ developer = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40mrfiiqane-181717?style=for-the-badge&logo=github)](https://github.com/mrfiiqane)
-[![Open to Work](https://img.shields.io/badge/Open%20To-Collaborations%20%26%20Freelance-success?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/mrfiiqane)
 
 </div>
 
