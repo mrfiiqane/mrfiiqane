@@ -16,7 +16,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 ```python
 developer = {
@@ -30,7 +30,7 @@ developer = {
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -86,7 +86,7 @@ developer = {
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <div align="center">
 
